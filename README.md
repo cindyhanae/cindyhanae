@@ -1,7 +1,9 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Cindy</h1>
-<h3 align="center">A front-end developer wannabe :blush:</h3>
+<h1 align="center">Oie <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, aqui é a Cindy</h1>
+<h3 align="center">Desenvolvedora front-end</h3>
 
-<strong>Olá</strong>
+<hr>
+
+
 
 
 
