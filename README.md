@@ -7,8 +7,9 @@
 
 ## Social Media
 
-<a href="https://twitter.com/home"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
-<a href="mailto:cindy.hanae1@gmail.com"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
+<a href="https://twitter.com/home" target="_blank"><img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
+<a href="mailto:cindy.hanae1@gmail.com" target="_blank"><img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  /></a>
+<a href="https://www.instagram.com/cindysasaki/" target="_blank"><img height="20" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 
 <h2 color="red">About me</h2>
 <h3>Below I'll tell a little bit of my crazy journey to become a front end dev!</h3>  
