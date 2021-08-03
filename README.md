@@ -6,7 +6,7 @@
 :books:  Currently studying React JS to improve my skills even more!   
 ##
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
+<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 
 <h2 color="red">About me</h2>
 <h3>Below I'll tell a little bit of my crazy journey to become a front end dev!</h3>  
