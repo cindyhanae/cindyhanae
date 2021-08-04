@@ -25,7 +25,7 @@
 <a href="https://www.instagram.com/cindysasaki/" target="_blank"><img height="24" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 
 ## My Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyhanae&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyhanae&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
