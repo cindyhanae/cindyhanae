@@ -1,5 +1,6 @@
-<h1 align="center">Hello World!  ![ Earth gif](Earth.gif) / ! [](Earth.gif) I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
+![earth](earth.gif)
 
 :computer:  I'm a front-end developer!    
 :house_with_garden:  Based in Curitiba, Brazil.   
