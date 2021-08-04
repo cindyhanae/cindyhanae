@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! <img src="![](name-of-giphy.gif)"> I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"> I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
 :computer:  I'm a front-end developer!    
