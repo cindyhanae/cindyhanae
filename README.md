@@ -43,7 +43,7 @@ At certain point, I decided to turn my cooking hobby into an occupation and star
 Because of the pandemic, all applications were suspended indefinitely. In view of this, I started a { ***front end developer*** } course, which I was very curious since my adolescence because of the old personal blogs. This course was the light in the dark in the middle of the pandemic. It opened my mind and I was amazed by how exciting it was to start a website from the scratch, to see it taking form from codes, to solve bugs problems and learn even more about front end. That's when I decided I wanted to make career as front end developer. So now I want to gain experience, take courses in the area and learn new languages and frameworks to improve my curriculum and professional background <img src="https://media.giphy.com/media/78Z3NyNtG0tbbPpY2x/giphy.gif" width="35">
 
 
-<img src="https://media.giphy.com/media/PdKx80jAZDYly/giphy.gif">
+<img src="https://media.giphy.com/media/PdKx80jAZDYly/giphy.gif" width="100">
 
 <!-- After going through all this, I've learned to be resilient,  -->
 
