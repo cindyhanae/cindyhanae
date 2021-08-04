@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello World! ![](Earth.gif) I'm Cindy <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
 :computer:  I'm a front-end developer!    
@@ -16,7 +16,6 @@
 <a href="https://www.instagram.com/cindysasaki/" target="_blank"><img height="24" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  /></a>
 
 ## My Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cindyhanae)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindyhanae)](https://github.com/anuraghazra/github-readme-stats)
 
 
