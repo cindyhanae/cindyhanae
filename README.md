@@ -4,7 +4,7 @@
 
 :computer:  I'm a front-end developer!    
 :house_with_garden:  Based in Curitiba, Brazil.   
-:books:  Currently studying <img height="20" src="https://media.giphy.com/media/hUL5gdlvDgtRbOElZS/giphy.gif"  /> to improve my skills even more!   
+:books:  Currently studying <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  /> to improve my skills even more!   
 
 ***I'm a former law student <img src="https://media.giphy.com/media/nFiJwDdwKBy2604n2g/giphy.gif" width="23">, who went through bakery <img height="23" src="https://media.giphy.com/media/13mqmjNN0PNNAs/giphy.gif"> and now I'm a front end developer <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="23">. I'll tell you how it happened below <img src="https://media.giphy.com/media/ek4Denjp06RCskgMJO/giphy.gif" width="23">, it's really fast!***
 
