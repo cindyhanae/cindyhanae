@@ -6,6 +6,7 @@
 :computer:  I'm a front-end developer!    
 :house_with_garden:  Based in Curitiba, Brazil.   
 :books:  Currently studying <img height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  /> to improve my skills even more!     
+<img src="https://media.giphy.com/media/RlOAlt0Qmsw4CTIELN/giphy.gif" width="25"> <a href="https://cindyhanae.github.io/cindy-hanae/" target="_blank">Check out my portfolio!</a>
 
 
 
