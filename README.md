@@ -10,7 +10,7 @@
 
 
 
-***I'm a former law student, who went through bakery and now I'm a front end developer and very proud of my journey.***
+***Long story short, I'm a former law student, who went through bakery and now I'm a front end developer and very proud of my journey.***
 
 
 
